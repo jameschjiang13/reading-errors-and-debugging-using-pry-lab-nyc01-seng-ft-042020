@@ -4,7 +4,7 @@ def generate_star_date
 end
 
 
-def state_log
+def state_log(date)
   generate_star_date
   "Captain's Log, star date #{star_date}."
 end
