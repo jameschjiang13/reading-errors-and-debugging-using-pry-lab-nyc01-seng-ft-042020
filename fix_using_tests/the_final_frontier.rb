@@ -1,8 +1,6 @@
 # don't forget to add: require 'pry'
-require pry
 
 a=1
-binding.pry
 star_date = (rand(100000) + 400000) / 10.0
 
 
