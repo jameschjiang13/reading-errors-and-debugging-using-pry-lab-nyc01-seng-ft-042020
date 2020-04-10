@@ -1,8 +1,8 @@
 # don't forget to add: require 'pry'
 require pry
 
-star_date = 4
-  binding.pry
+a=1
+binding.pry
 star_date = (rand(100000) + 400000) / 10.0
 
 
