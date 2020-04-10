@@ -4,7 +4,7 @@ star_date = (rand(100000) + 400000) / 10.0
 
 def state_log(date)
   "Captain's Log, star date #{star_date}."
-  binding.pry
+binding.pry
 end
 
 def engage
